@@ -1,0 +1,1 @@
+Interactive application to visualize algorithms like BFS, DFS, and Dijkstra’s. Users can create grids, place start/end nodes, and watch the algorithm in action. Strong focus on data structures and visual feedback.
